@@ -84,7 +84,7 @@ export default function Intro() {
           <BsArrowRight className="opacity-70 group-hover:translate-x-1 transition" />
         </Link>
         <a className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full cursor-pointer hover:scale-110  active:scale-105 transition borderBlack dark:bg-white/10"
-        href="/public/Eboweme Ayo-Frontend Developer.pdf"
+        href="/public/Ayo Eboweme CV.pdf"
         download>
           Download CV <HiDownload className="opacity-60 group-hover:translate-y-1 transition" />
         </a>
@@ -97,7 +97,7 @@ export default function Intro() {
         </a>
         <a
           className="bg-white p-4 text-gray-700 flex items-center gap-2 rounded-full text-[1.3rem] outline-none focus:scale-[1.15] hover:scale-[1.15]  hover:text-gray-950 active:scale-105 transition borderBlack dark:bg-white/10 dark:text-white/60"
-          href="https://github.com/lebrin-ay"
+          href="https://github.com/Ay-lebrin"
           target="_blank"
         >
           <FaGithubSquare />
